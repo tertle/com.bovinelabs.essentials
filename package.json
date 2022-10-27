@@ -1,7 +1,7 @@
 {
   "name": "com.bovinelabs.essentials",
   "description": "Essentials for DOTS.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2022.2",
   "unityRelease": "0b8",
   "displayName": "BovineLabs Essentials",
